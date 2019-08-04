@@ -1,2 +1,1 @@
-# study
-for pratice
+操作很简单
